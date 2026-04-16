@@ -3,7 +3,7 @@ transfermarkt_name_map = {
     "Bosnia and Herzegovina": "Bosnia-Herzegovina",
     "Turkey": "Turkiye",
     "China PR": "China",
-    "DR Congo": "Congo DR"
+    "DR Congo": "Democratic Republic of the Congo"
 }
 transfermarkt_skip = [
     "Jersey",
